@@ -1,0 +1,88 @@
+Create a complete, modern, professional, mobile-responsive single-page website for "Heiwakai Karate Academy Sri Lanka" — a traditional karate dojo/school located in Sri Lanka (mainly Panadura / Alubomulla area).
+
+Use ONLY pure HTML5, CSS3, and vanilla JavaScript (no frameworks like React, Bootstrap, Tailwind, etc.).
+
+Design goals:
+- Clean, powerful, disciplined and elegant look — reflecting karate values: respect, strength, peace, focus, tradition
+- Color scheme: mainly black (#0f0f0f / #111), white, red accents (#c8102e or dark red #8b0000), and subtle gold/orange for highlights (like belt colors)
+- Use high-quality karate imagery placeholders (comment where real photos should go: dojo, training, kids/adults class, kumite, kata, Sensei, group photo, certificates, etc.)
+- Very good mobile experience (hamburger menu on mobile)
+- Smooth scroll behavior
+- Professional typography (import Google Fonts: e.g. "Roboto" for body + "Oswald" or "Anton" for headings)
+
+Required sections (in this order):
+
+1. Hero / Landing section
+   - Full-width background image (karate training or dojo interior)
+   - Big title: "Heiwakai Karate Academy Sri Lanka"
+   - Japanese + English: "平和会 空手道場" (Heiwakai Karatedōjō)
+   - Subtitle: "School of Peace – Traditional Karate Training in Sri Lanka"
+   - Prominent CTA buttons: "Join Now" and "Contact Us"
+   - Subtle scroll-down arrow
+
+2. About Us
+   - Meaning of "Heiwakai" = "Association/School of Peace & Harmony"
+   - Short description: traditional Japanese/Okinawan style karate, focus on discipline, self-defense, confidence, respect, physical & mental development
+   - For children, youth and adults
+   - Mention values: humility, perseverance, integrity
+
+3. Our Classes / Programs
+   - Cards or list:
+     • Kids Karate (5–12 years)
+     • Junior / Teens (13–17)
+     • Adult Karate
+     • Kumite / Sparring sessions
+     • Kata specialization
+     • Self-defense workshops
+   - Each with short description + icon or small image placeholder
+
+4. Why Choose Heiwakai?
+   - 4–6 feature blocks with icons:
+     - Experienced instructors
+     - Traditional & modern training
+     - Safe & friendly environment
+     - Grading & belt system
+     - Tournaments & events participation
+     - Location convenience (Panadura area)
+
+5. Gallery
+   - Responsive image grid (6–10 photos)
+   - Training, group photos, medals, demonstrations, kids smiling, Sensei teaching
+
+6. Instructors / Sensei
+   - 1–3 instructor cards (photo placeholder + name + rank + short bio)
+   - Example: Chief Instructor – [Name], Dan grade, years of experience...
+
+7. Testimonials
+   - 4–5 rotating or static quotes from parents/students
+   - Name + age group or "Parent of…"
+
+8. Contact & Location
+   - Contact form (name, phone, email, message) – just frontend (no backend)
+   - Phone: +94 71 980 4420
+   - Email: heiwakaixkarate@gmail.com
+   - Location: Alubomulla, Panadura, Sri Lanka
+   - Embedded Google Maps placeholder iframe comment
+   - Social links: Facebook (heiwakai.karateSL), Instagram/TikTok if available
+
+9. Footer
+   - Logo/name
+   - Quick links
+   - Contact info
+   - Copyright © 2026 Heiwakai Karate Academy Sri Lanka
+   - "All rights reserved"
+
+Additional requirements:
+- Sticky/fixed navigation bar (Home, About, Classes, Gallery, Instructors, Contact)
+- Hamburger menu on mobile
+- Smooth scroll to sections when clicking nav links
+- Subtle hover animations on buttons/cards
+- Fade-in / scroll reveal effect for sections (using Intersection Observer or simple CSS)
+- 100% responsive (desktop, tablet, mobile)
+- Accessible (good contrast, semantic HTML, alt texts)
+- Fast loading (use webp image placeholders if possible)
+- Add favicon comment
+
+Please output the complete code in one file (index.html) with internal <style> and <script> tags.
+Use modern CSS (flexbox + grid, variables, clamp() for responsive typography).
+Make it look premium and martial-arts authentic — not childish or generic.
